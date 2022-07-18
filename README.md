@@ -1,2 +1,2 @@
 Buka halaman awal pada "localhost/aku/home/lihatdata".
-<img scr="image/home2.jpg">
+<img scr="/image/home2.JPG">
